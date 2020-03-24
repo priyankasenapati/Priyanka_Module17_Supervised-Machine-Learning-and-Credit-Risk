@@ -10,7 +10,9 @@ The goals of this challenge is to:
 
 ## Various Models and Alogorithms used:-
 1. Oversample the data using the RandomOverSampler and SMOTE algorithms.
+
 2. Undersample the data using the cluster centroids algorithm.
+
 3. A combination approach with the SMOTEENN algorithm.
 
 ## Extension:-
